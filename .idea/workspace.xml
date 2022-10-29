@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46bce3a8-8a76-4aa0-a6ff-f9ce33f2409d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CatHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CatHouseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReturnError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CatHouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
